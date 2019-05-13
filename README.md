@@ -5,7 +5,7 @@
 ### 安装
 
 ```
-pipenv install -e git+https://github.com/cielpy/hiii-email-sender.git#egg=hiii-email-sender
+pipenv install -e git+https://github.com/cielpy/hiii-email-sender.git@master#egg=hiii-email-sender
 ```
 
 ### 使用
