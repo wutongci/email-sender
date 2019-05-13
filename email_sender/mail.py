@@ -3,6 +3,7 @@
 import os
 from sender import Mail
 from sender import Message
+from sender import Attachment
 
 def send(text, subject, toAdd, cc=None, attachments=None):
     """邮件发送方法
