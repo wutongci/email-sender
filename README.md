@@ -5,7 +5,7 @@
 ### 安装
 
 ```
-pipenv install -e git+https://github.com/cielpy/hiii-email-sender.git@master#egg=hiii-email-sender
+pipenv install -e git+https://github.com/wutongci/email-sender.git@master#egg=email-sender
 ```
 
 ### 使用
@@ -21,6 +21,6 @@ send('邮件内容', '邮件标题', '收件人列表')
 ```
 MAIL_SMTP_SERVER=smtp.exmail.qq.com
 MAIL_SERVER_PORT=465
-MAIL_USER=noreply@hiii-life.com
+MAIL_USER=noreply@xxxx.com
 MAIL_PASSWORD=pwddd
 ```
